@@ -1,3 +1,0 @@
-@IsTest
-public class FastAndFuriousControllerTest {
-}
