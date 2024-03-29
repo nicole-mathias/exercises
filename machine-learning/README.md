@@ -1,8 +1,6 @@
 # Gradient Works Machine Learning Interview Repo
 
-Hello friends! If you're reading this, you're probably interviewing for a machine learning position at Gradient Works. If not, GET OUT! SHOO! Go on now, git!
-
-Just kidding, you can hang out. But you're probably not going to get much out of this repo. Maybe you will, who knows? I'm not your mom.
+Hello friends! If you're reading this, you're probably interviewing for a machine learning position at Gradient Works. If not, GET OUT! SHOO! Go on now, git! Just kidding, you can hang out. But you're probably not going to get much out of this repo. Maybe you will, who knows? I'm not your mom.
 
 Anyway, if you're here for the interview, welcome! I'll outline the steps for the whole process here and if you have any questions, send an email to mando@gradient.works and he'll clear things up.
 
@@ -12,7 +10,7 @@ You've probably already done this, but if not, we'll schedule a 30-minute phone 
 
 ## Step 2: Technical exercise
 
-We'll send you a technical exercise to complete. It's a Jupyter notebook that you can run in your own environment or in Google Colab, plus a tiny CSV dataset. The exercise will test your ability to explore data, answer questions about that data, and build a small RAG system to answer arbitrary questions abou the data.
+We'll send you a technical exercise to complete. It's a Jupyter notebook that you can run in your own environment or in Google Colab, plus a tiny CSV dataset. The exercise will test your ability to explore data, answer questions about that data, and build a small RAG system to answer arbitrary questions about the data.
 
 We expect the exercise to take 1-3 hours, depending on how far you take the RAG system. We're not looking for a perfect solution, but we are looking for a thoughtful approach and a good understanding of the approach (there's more detail in the notebook).
 
@@ -21,7 +19,7 @@ You can find the exercise [here](./exercise.ipynb).
 To complete the exercise, you can either:
 
 1. fork the repo and submit a pull request with your solution, or
-2. import the notebook into your own Google Colab environment and share the notebook with @mando
+2. import the notebook into your own Google Colab environment and share the notebook with mando@gradient.works
 
 If neither of those work, email mando@gradient.works and we'll figure something out.
 
@@ -43,4 +41,6 @@ After that, we'll make a decision and let you know as soon as possible.
 
 ## Step 4: There's no Step 4
 
-Hopefully this all makes sense and you're excited to get started. Interviewing is hard and we get that. We hope that this process makes sense and is as stress-free as it can be. 
+Hopefully this all makes sense and you're excited to get started. Interviewing is hard and we get that. We hope that this process makes sense and is as stress-free as it can be.
+
+As always, feedback is a gift, so if you have any thoughts on how we can improve this process, please let us know.
